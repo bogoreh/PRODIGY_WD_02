@@ -1,0 +1,28 @@
+body{
+    background: #ebebeb;
+    color: #181717;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+div.controls > button {
+      background-color: rgb(58, 241, 12);
+}
+
+.stopwatch {
+    font-size: 15em;
+    font-family: monospace;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+    padding: 10px 0;
+}
